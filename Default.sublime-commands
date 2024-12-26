@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Test Plugin: Run",
+        "command": "test_plugin"
+    }
+]
